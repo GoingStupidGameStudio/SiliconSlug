@@ -42,8 +42,9 @@ namespace TexturePackerLoader
                 color: color,
                 rotation: rotation,
                 origin: origin,
-                scale: new Vector2(scale, scale),
-                effect: spriteEffects);
+                scale: new Vector2(scale, scale));
+			//,
+            //    effect: spriteEffects
         }
     }
 }
