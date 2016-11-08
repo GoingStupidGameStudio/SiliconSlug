@@ -5,14 +5,14 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Estado de SiliconSlug">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SiliconSlug\Program.cs">
     <Files>
       <File FileName="SiliconSlug\Game1.cs" Line="78" Column="1" />
       <File FileName="SiliconSlug\TexturePackerLoader\SpriteRender.cs" Line="47" Column="15" />
       <File FileName="SiliconSlug\MonoGame.Framework.dll.config" Line="1" Column="1" />
       <File FileName="SiliconSlug\packages.config" Line="1" Column="1" />
       <File FileName="SiliconSlug\Properties\AssemblyInfo.cs" Line="23" Column="34" />
-      <File FileName="Estado de SiliconSlug" />
+      <File FileName="SiliconSlug\Program.cs" Line="15" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
 </Properties>

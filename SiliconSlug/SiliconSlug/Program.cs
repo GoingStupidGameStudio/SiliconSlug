@@ -1,7 +1,9 @@
 ﻿#region Using Statements
+using RxPingPong;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+
 #if MONOMAC
 using MonoMac.AppKit;
 using MonoMac.Foundation;
@@ -49,7 +51,9 @@ namespace SiliconSlug
 #elif __IOS__ || __TVOS__
             UIApplication.Main(args, null, "AppDelegate");
 #else
-			RunGame();
+            //RunGame(); Comentado temporalmente para facer pruebas de paso de mensaje
+
+            new PingPong();
 #endif
 		}
 

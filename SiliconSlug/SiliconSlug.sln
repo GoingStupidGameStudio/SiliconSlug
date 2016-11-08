@@ -1,7 +1,10 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiliconSlug", "SiliconSlug\SiliconSlug.csproj", "{B99284B8-9B25-4FAC-ADD4-5EBEBC9D33E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{061B08E1-8885-4D51-98F1-C2E58C05F087}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +16,8 @@ Global
 		{B99284B8-9B25-4FAC-ADD4-5EBEBC9D33E8}.Debug|x86.Build.0 = Debug|x86
 		{B99284B8-9B25-4FAC-ADD4-5EBEBC9D33E8}.Release|x86.ActiveCfg = Release|x86
 		{B99284B8-9B25-4FAC-ADD4-5EBEBC9D33E8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
